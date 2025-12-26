@@ -27,7 +27,6 @@ This project analyzes retail data from BlinkIT – India’s Last Minute App, fo
 - Tier 1 cities contribute the most to fat content-based sales.
 
 ## 🔮 Future Enhancements
-______________________________________________________________________________________________________________________________________________________________________________________________
 - Predictive modeling for sales forecasting
 - Customer segmentation using clustering
 - Dynamic filters for outlet type and item categor
