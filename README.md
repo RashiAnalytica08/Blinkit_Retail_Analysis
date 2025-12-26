@@ -16,13 +16,11 @@ This project analyzes retail data from BlinkIT – India’s Last Minute App, fo
 - High: 35.15%
 
 ## 🛠️ Tools & Technologies
-______________________________________________________________________________________________________________________________________________________________________________________________
 - Python: Pandas, Matplotlib, Seaborn
 - Power BI : Dashboard creation
 - Jupyter Notebook: Data exploration
 
 ## 📌 Insights Summary
-______________________________________________________________________________________________________________________________________________________________________________________________
 - Low Fat items dominate both in count and revenue.
 - Fruits & Vegetables generate the highest sales among item types.
 - Supermarket Type1 outlets outperform others in total sales.
