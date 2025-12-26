@@ -1,18 +1,16 @@
 # 📘 BlinkIT Retail Analysis – EDA + Power BI
-______________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🧾 Project Overview
-______________________________________________________________________________________________________________________________________________________________________________________________
+
 This project analyzes retail data from BlinkIT – India’s Last Minute App, focusing on sales performance, item categories, outlet characteristics, and fat content distribution. It includes:
 - Exploratory Data Analysis (EDA) using Python
 - Interactive dashboard built in Power BI
   
 ## 📊 Key Metrics & Insights
-______________________________________________________________________________________________________________________________________________________________________________________________
- 🔢 Summary Stats 🧃 Fat Content Analysis 🍽️ Item Type Sales 🏬 Outlet Type Sales 🏗️ Fat Content by Tier
+
 
 ## 📐 Outlet Size Distribution
-______________________________________________________________________________________________________________________________________________________________________________________________
+
 - Small: 40.29%
 - Medium: 24.56%
 - High: 35.15%
